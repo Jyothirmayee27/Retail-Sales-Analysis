@@ -1,4 +1,3 @@
-Avunu friendu 😊 **simple English**, unnecessary details lekunda final README ila pettuko:
 
 # Retail Sales Analysis
 
